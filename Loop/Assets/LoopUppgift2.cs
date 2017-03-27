@@ -27,7 +27,7 @@ public class LoopUppgift2 : MonoBehaviour {
             // Checks if i and valA have the same value
             if (list[i] == valA)
             {
-                // Prints the position of the set value
+                // Prints the positions of the set value
                 print(i);
             }
         }
