@@ -66,6 +66,7 @@
     <Compile Include="Assets\LoopUppgift1.cs" />
     <Compile Include="Assets\LoopUppgift2.cs" />
     <Compile Include="Assets\LoopUppgift3.cs" />
+    <Compile Include="Assets\LoopUppgift4.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
